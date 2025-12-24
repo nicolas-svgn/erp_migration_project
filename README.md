@@ -42,3 +42,6 @@ source venv/bin/activate
 
 # Installation des dépendances
 pip install -r requirements.txt
+
+# Exécution du programme
+python main.py
