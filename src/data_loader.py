@@ -12,8 +12,6 @@ def load_data(article_path, appro_path):
     if not os.path.exists(appro_path):
         raise FileNotFoundError(f"ERREUR : Le fichier {appro_path} est introuvable.")
     
-    # Chargement ARTICLE (Attention au séparateur : souvent ';' pour les exports français/WinDev)
-    # On force dtype=str pour préserver les codes postaux ou codes articles commençant par 0
     try:
         # Chargement ARTICLE
         df_art= pd.read_csv(article_path, sep=',', encoding='utf-8-sig')
