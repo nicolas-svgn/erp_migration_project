@@ -1,0 +1,25 @@
+CODEFAM,procurement_method_select,product_family,product_category
+ACO,Acheter,Composants 6061,Production
+AFO,Acheter,Fournitures 6063,Achats indirects
+AIT,Acheter,Fournitures TI 6064,Achats indirects
+MAP,Acheter,Matières Premières-6061,Production
+AOU,Acheter,Outillage immo-2154,Achats indirects
+PF ,Produire,vente PF-7019,Production
+ASE,Acheter,Services divers-6288,Achats indirects
+ASI,Acheter,Entretien -615,Achats indirects
+AST,Acheter,sous traitrance production-6041,Production
+AVE,Acheter,véhicule-61552,Achats indirects
+DOC,Acheter et produire,Documents-618,Production
+FRI,Acheter et produire,Frais sur stocks-6081,Production
+INV,Acheter,Investissement-23131,Achats indirects
+POR,Acheter,Port-6241,Production
+PSF,Acheter et produire,PSF-6011,Production
+PUB,Acheter,Pub-623,Achats indirects
+TAX,Acheter,TAX-635,Production
+MAR,Acheter,Marchandises-607,Production
+VSE,Produire,Services-7062,Production
+MO ,Produire,MO-7062,Production
+BIN,Produire,Déchets-703,Production
+OPG,Acheter,OPG-7718,Achats indirects
+CPT,Acheter,Acompte-4191,Production
+INT,Acheter,Interco,Interco
